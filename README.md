@@ -27,6 +27,17 @@ KZZI（珂芝）K98 只有 Windows 驱动，macOS 下官方没有驱动、也没
 | 配置 | 原始配置查看、宏区只读、配置档、完整备份导出/恢复 |
 | 安全 | 键位表读不全拒绝写入、改键写完读回校验、失败自动回滚、恢复出厂键位 |
 
+## 下载
+
+下载 [`dist/KZZI-HUB-1.0.0-macOS.zip`](dist/KZZI-HUB-1.0.0-macOS.zip)（或到
+[**Releases**](https://github.com/huaxiac4/kzzi-hub-macos/releases) 下载），解压后把
+`KZZI HUB.app` 拖进「应用程序」。
+
+- 应用是 ad-hoc 签名、未做 Apple 公证：首次打开请 **右键 → 打开**（或执行 `xattr -cr "KZZI HUB.app"`）
+- 首次运行按提示授予「输入监控」权限，然后点「重试连接」
+- Release 版**不含**官方键盘图/星空背景（版权原因），界面会用纯色背景；想要完整外观见
+  `native/Sources/KZZIHub/Resources/README.md`
+
 ## 系统要求
 
 - **macOS 26 及以上**（界面使用 SwiftUI Liquid Glass API）
