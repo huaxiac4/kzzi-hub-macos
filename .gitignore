@@ -1,0 +1,26 @@
+.DS_Store
+.build/
+*.app/
+KZZI HUB.app/
+legacy-web/
+*.xcuserstate
+
+# device-specific dumps / backups
+tools/*.json
+!tools/*.sample.json
+
+# official artwork extracted from the Windows driver (not redistributable)
+native/Sources/KZZIHub/Resources/*.png
+
+# keys / certs
+*.pem
+*.p12
+
+# compiled helper binaries
+tools/hidbridge
+tools/hidprobe
+tools/kzzictl
+tools/listen_all
+tools/wired_probe
+tools/tcc_check
+tools/desc_for

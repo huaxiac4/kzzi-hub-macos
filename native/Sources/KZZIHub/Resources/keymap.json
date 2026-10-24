@@ -1,0 +1,770 @@
+[
+{
+"code": "0x29",
+"label": "Esc",
+"li": 0,
+"win": "Esc",
+"mac": "Esc",
+"fn": "灯光开关"
+},
+{
+"code": "0x3a",
+"label": "F1",
+"li": 6,
+"win": "F1",
+"mac": "F1",
+"fn": "电脑"
+},
+{
+"code": "0x3b",
+"label": "F2",
+"li": 12,
+"win": "F2",
+"mac": "F2",
+"fn": "主页"
+},
+{
+"code": "0x3c",
+"label": "F3",
+"li": 18,
+"win": "F3",
+"mac": "F3",
+"fn": "邮件"
+},
+{
+"code": "0x3d",
+"label": "F4",
+"li": 24,
+"win": "F4",
+"mac": "F4",
+"fn": "计算器"
+},
+{
+"code": "0x3e",
+"label": "F5",
+"li": 30,
+"win": "F5",
+"mac": "F5",
+"fn": "多媒体"
+},
+{
+"code": "0x3f",
+"label": "F6",
+"li": 36,
+"win": "F6",
+"mac": "F6",
+"fn": "停止"
+},
+{
+"code": "0x40",
+"label": "F7",
+"li": 42,
+"win": "F7",
+"mac": "F7",
+"fn": "上一曲"
+},
+{
+"code": "0x41",
+"label": "F8",
+"li": 48,
+"win": "F8",
+"mac": "F8",
+"fn": ""
+},
+{
+"code": "0x42",
+"label": "F9",
+"li": 54,
+"win": "F9",
+"mac": "F9",
+"fn": "下一曲"
+},
+{
+"code": "0x43",
+"label": "F10",
+"li": 60,
+"win": "F10",
+"mac": "F10",
+"fn": "静音"
+},
+{
+"code": "0x44",
+"label": "F11",
+"li": 66,
+"win": "F11",
+"mac": "F11",
+"fn": "音量-"
+},
+{
+"code": "0x45",
+"label": "F12",
+"li": 72,
+"win": "F12",
+"mac": "F12",
+"fn": "音量+"
+},
+{
+"code": "0x4c",
+"label": "Del",
+"li": 78,
+"win": "Delete",
+"mac": "⌦ Forward Delete",
+"fn": "Scrlk"
+},
+{
+"code": "0x4a",
+"label": "Home",
+"li": 90,
+"win": "Home",
+"mac": "↖ Home",
+"fn": "Prtsc"
+},
+{
+"code": "0x4b",
+"label": "PgUp",
+"li": 96,
+"win": "Page Up",
+"mac": "⇞ Page Up",
+"fn": "Pause"
+},
+{
+"code": "0x4e",
+"label": "PgDn",
+"li": 102,
+"win": "Page Down",
+"mac": "⇟ Page Down",
+"fn": "End"
+},
+{
+"code": "0x35",
+"label": "`~",
+"li": 1,
+"win": "`~",
+"mac": "`~",
+"fn": ""
+},
+{
+"code": "0x1e",
+"label": "1!",
+"li": 7,
+"win": "1!",
+"mac": "1!",
+"fn": ""
+},
+{
+"code": "0x1f",
+"label": "2@",
+"li": 13,
+"win": "2@",
+"mac": "2@",
+"fn": ""
+},
+{
+"code": "0x20",
+"label": "3#",
+"li": 19,
+"win": "3#",
+"mac": "3#",
+"fn": ""
+},
+{
+"code": "0x21",
+"label": "4$",
+"li": 25,
+"win": "4$",
+"mac": "4$",
+"fn": ""
+},
+{
+"code": "0x22",
+"label": "5%",
+"li": 31,
+"win": "5%",
+"mac": "5%",
+"fn": ""
+},
+{
+"code": "0x23",
+"label": "6^",
+"li": 37,
+"win": "6^",
+"mac": "6^",
+"fn": ""
+},
+{
+"code": "0x24",
+"label": "7&",
+"li": 43,
+"win": "7&",
+"mac": "7&",
+"fn": ""
+},
+{
+"code": "0x25",
+"label": "8*",
+"li": 49,
+"win": "8*",
+"mac": "8*",
+"fn": ""
+},
+{
+"code": "0x26",
+"label": "9(",
+"li": 55,
+"win": "9(",
+"mac": "9(",
+"fn": ""
+},
+{
+"code": "0x27",
+"label": "0)",
+"li": 61,
+"win": "0)",
+"mac": "0)",
+"fn": ""
+},
+{
+"code": "0x2d",
+"label": "-_",
+"li": 67,
+"win": "-_",
+"mac": "-_",
+"fn": ""
+},
+{
+"code": "0x2e",
+"label": "=+",
+"li": 73,
+"win": "=+",
+"mac": "=+",
+"fn": ""
+},
+{
+"code": "0x2a",
+"label": "Backspace",
+"li": 79,
+"win": "Backspace",
+"mac": "⌫ Delete",
+"fn": ""
+},
+{
+"code": "0x53",
+"label": "Num",
+"li": 91,
+"win": "Num Lock",
+"mac": "Clear",
+"fn": ""
+},
+{
+"code": "0x55",
+"label": "*",
+"li": 103,
+"win": "*",
+"mac": "*",
+"fn": ""
+},
+{
+"code": "0x56",
+"label": "-",
+"li": 109,
+"win": "-",
+"mac": "-",
+"fn": ""
+},
+{
+"code": "0x2b",
+"label": "Tab",
+"li": 2,
+"win": "Tab",
+"mac": "Tab",
+"fn": ""
+},
+{
+"code": "0x14",
+"label": "Q",
+"li": 8,
+"win": "Q",
+"mac": "Q",
+"fn": ""
+},
+{
+"code": "0x1a",
+"label": "W",
+"li": 14,
+"win": "W",
+"mac": "W",
+"fn": ""
+},
+{
+"code": "0x8",
+"label": "E",
+"li": 20,
+"win": "E",
+"mac": "E",
+"fn": ""
+},
+{
+"code": "0x15",
+"label": "R",
+"li": 26,
+"win": "R",
+"mac": "R",
+"fn": ""
+},
+{
+"code": "0x17",
+"label": "T",
+"li": 32,
+"win": "T",
+"mac": "T",
+"fn": ""
+},
+{
+"code": "0x1c",
+"label": "Y",
+"li": 38,
+"win": "Y",
+"mac": "Y",
+"fn": ""
+},
+{
+"code": "0x18",
+"label": "U",
+"li": 44,
+"win": "U",
+"mac": "U",
+"fn": ""
+},
+{
+"code": "0xc",
+"label": "I",
+"li": 50,
+"win": "I",
+"mac": "I",
+"fn": ""
+},
+{
+"code": "0x12",
+"label": "O",
+"li": 56,
+"win": "O",
+"mac": "O",
+"fn": ""
+},
+{
+"code": "0x13",
+"label": "P",
+"li": 62,
+"win": "P",
+"mac": "P",
+"fn": ""
+},
+{
+"code": "0x2f",
+"label": "[{",
+"li": 68,
+"win": "[{",
+"mac": "[{",
+"fn": ""
+},
+{
+"code": "0x30",
+"label": "]}",
+"li": 74,
+"win": "]}",
+"mac": "]}",
+"fn": "INS"
+},
+{
+"code": "0x31",
+"label": "\\|",
+"li": 80,
+"win": "\\|",
+"mac": "\\|",
+"fn": "灯效"
+},
+{
+"code": "0x5f",
+"label": "7",
+"li": 92,
+"win": "7",
+"mac": "7",
+"fn": ""
+},
+{
+"code": "0x60",
+"label": "8",
+"li": 98,
+"win": "8",
+"mac": "8",
+"fn": ""
+},
+{
+"code": "0x61",
+"label": "9",
+"li": 104,
+"win": "9",
+"mac": "9",
+"fn": ""
+},
+{
+"code": "0x57",
+"label": "+",
+"li": 110,
+"win": "+",
+"mac": "+",
+"fn": ""
+},
+{
+"code": "0x39",
+"label": "CapsLock",
+"li": 3,
+"win": "Caps Lock",
+"mac": "⇪ Caps Lock",
+"fn": ""
+},
+{
+"code": "0x4",
+"label": "A",
+"li": 9,
+"win": "A",
+"mac": "A",
+"fn": "Window"
+},
+{
+"code": "0x16",
+"label": "S",
+"li": 15,
+"win": "S",
+"mac": "S",
+"fn": "Mac"
+},
+{
+"code": "0x7",
+"label": "D",
+"li": 21,
+"win": "D",
+"mac": "D",
+"fn": ""
+},
+{
+"code": "0x9",
+"label": "F",
+"li": 27,
+"win": "F",
+"mac": "F",
+"fn": ""
+},
+{
+"code": "0xa",
+"label": "G",
+"li": 33,
+"win": "G",
+"mac": "G",
+"fn": ""
+},
+{
+"code": "0xb",
+"label": "H",
+"li": 39,
+"win": "H",
+"mac": "H",
+"fn": ""
+},
+{
+"code": "0xd",
+"label": "J",
+"li": 45,
+"win": "J",
+"mac": "J",
+"fn": ""
+},
+{
+"code": "0xe",
+"label": "K",
+"li": 51,
+"win": "K",
+"mac": "K",
+"fn": ""
+},
+{
+"code": "0xf",
+"label": "L",
+"li": 57,
+"win": "L",
+"mac": "L",
+"fn": ""
+},
+{
+"code": "0x33",
+"label": ";:",
+"li": 63,
+"win": ";:",
+"mac": ";:",
+"fn": ""
+},
+{
+"code": "0x34",
+"label": "'\"",
+"li": 69,
+"win": "'\"",
+"mac": "'\"",
+"fn": ""
+},
+{
+"code": "0x28",
+"label": "Enter",
+"li": 81,
+"win": "Enter",
+"mac": "↩ Return",
+"fn": ""
+},
+{
+"code": "0x5c",
+"label": "4",
+"li": 93,
+"win": "4",
+"mac": "4",
+"fn": ""
+},
+{
+"code": "0x5d",
+"label": "5",
+"li": 99,
+"win": "5",
+"mac": "5",
+"fn": ""
+},
+{
+"code": "0x5e",
+"label": "6",
+"li": 105,
+"win": "6",
+"mac": "6",
+"fn": ""
+},
+{
+"code": "0xe1",
+"label": "Shift",
+"li": 4,
+"win": "Shift",
+"mac": "⇧ Shift",
+"fn": ""
+},
+{
+"code": "0x1d",
+"label": "Z",
+"li": 10,
+"win": "Z",
+"mac": "Z",
+"fn": ""
+},
+{
+"code": "0x1b",
+"label": "X",
+"li": 16,
+"win": "X",
+"mac": "X",
+"fn": ""
+},
+{
+"code": "0x6",
+"label": "C",
+"li": 22,
+"win": "C",
+"mac": "C",
+"fn": ""
+},
+{
+"code": "0x19",
+"label": "V",
+"li": 28,
+"win": "V",
+"mac": "V",
+"fn": ""
+},
+{
+"code": "0x5",
+"label": "B",
+"li": 34,
+"win": "B",
+"mac": "B",
+"fn": ""
+},
+{
+"code": "0x11",
+"label": "N",
+"li": 40,
+"win": "N",
+"mac": "N",
+"fn": ""
+},
+{
+"code": "0x10",
+"label": "M",
+"li": 46,
+"win": "M",
+"mac": "M",
+"fn": ""
+},
+{
+"code": "0x36",
+"label": ",<",
+"li": 52,
+"win": ",<",
+"mac": ",<",
+"fn": "背光单色"
+},
+{
+"code": "0x37",
+"label": ".>",
+"li": 58,
+"win": ".>",
+"mac": ".>",
+"fn": ""
+},
+{
+"code": "0xe5",
+"label": "Shift",
+"li": 82,
+"win": "Shift",
+"mac": "⇧ Shift",
+"fn": ""
+},
+{
+"code": "0x52",
+"label": "↑",
+"li": 88,
+"win": "↑",
+"mac": "↑",
+"fn": "亮度+"
+},
+{
+"code": "0x59",
+"label": "1",
+"li": 94,
+"win": "1",
+"mac": "1",
+"fn": ""
+},
+{
+"code": "0x5a",
+"label": "2",
+"li": 100,
+"win": "2",
+"mac": "2",
+"fn": ""
+},
+{
+"code": "0x5b",
+"label": "3",
+"li": 106,
+"win": "3",
+"mac": "3",
+"fn": ""
+},
+{
+"code": "0x58",
+"label": "Enter",
+"li": 112,
+"win": "Num Enter",
+"mac": "⌤ Enter",
+"fn": ""
+},
+{
+"code": "0xe0",
+"label": "Ctrl",
+"li": 5,
+"win": "Ctrl",
+"mac": "⌃ Control",
+"fn": ""
+},
+{
+"code": "0xe3",
+"label": "Win",
+"li": 11,
+"win": "Win",
+"mac": "⌘ Command",
+"fn": ""
+},
+{
+"code": "0xe2",
+"label": "Alt",
+"li": 17,
+"win": "Alt",
+"mac": "⌥ Option",
+"fn": ""
+},
+{
+"code": "0x2c",
+"label": "Space",
+"li": 35,
+"win": "Space",
+"mac": "Space",
+"fn": "恢复出厂设置"
+},
+{
+"code": "0xe6",
+"label": "Alt",
+"li": 53,
+"win": "Alt",
+"mac": "⌥ Option",
+"fn": ""
+},
+{
+"code": "0xaf",
+"label": "Fn",
+"li": 59,
+"win": "Fn",
+"mac": "Fn",
+"fn": ""
+},
+{
+"code": "0xe4",
+"label": "Ctrl",
+"li": 65,
+"win": "Ctrl",
+"mac": "⌃ Control",
+"fn": ""
+},
+{
+"code": "0x50",
+"label": "←",
+"li": 83,
+"win": "←",
+"mac": "←",
+"fn": "速度-"
+},
+{
+"code": "0x51",
+"label": "↓",
+"li": 89,
+"win": "↓",
+"mac": "↓",
+"fn": "亮度-"
+},
+{
+"code": "0x4f",
+"label": "→",
+"li": 95,
+"win": "→",
+"mac": "→",
+"fn": "速度+"
+},
+{
+"code": "0x62",
+"label": "0",
+"li": 101,
+"win": "0",
+"mac": "0",
+"fn": ""
+},
+{
+"code": "0x63",
+"label": ".",
+"li": 107,
+"win": ".",
+"mac": ".",
+"fn": ""
+}
+]
